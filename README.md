@@ -369,4 +369,5 @@ Panduan ini merupakan **cheat code**, bukan langkah pembersihan yang wajib dilak
 
 ---
 
-**Study Club Data Science — Mini Project 1**
+Selamat Mengerjakannn
+**Salam Study Club Data Science**
