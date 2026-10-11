@@ -1,5 +1,3 @@
-# Panduan_Kode_Data_Science
-
 # Panduan Kode Mini Project 1 - Study Club Data Science
 
 Panduan praktis penggunaan Python untuk **Mini Project 1 Study Club Data Science**, mulai dari **Data Understanding**, **Exploratory Data Analysis (EDA)**, hingga **Data Preparation**. Contoh kode dirancang untuk dijalankan secara berurutan di **Google Colab** atau Jupyter Notebook.
