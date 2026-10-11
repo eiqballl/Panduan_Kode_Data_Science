@@ -370,4 +370,4 @@ Panduan ini merupakan **cheat code**, bukan langkah pembersihan yang wajib dilak
 ---
 
 Selamat Mengerjakannn
-**Salam Study Club Data Science**
+**Salam Study Club Data Science 2026**
